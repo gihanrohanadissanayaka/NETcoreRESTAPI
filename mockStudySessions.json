@@ -1,0 +1,67 @@
+[
+  {
+    "Id": 1,
+    "Module": {
+      "Id": 1,
+      "Name": "Mathematics",
+      "Description": "Basic Mathematics Module",
+      "Credits": 3,
+      "Code": "MATH101",
+      "Semester": "Fall",
+      "Compulsory": true
+    },
+    "SessionDate": "2024-07-20T10:00:00",
+    "SessionTime": 2.0,
+    "SessionType": true,
+    "Progress": 75.5
+  },
+  {
+    "Id": 2,
+    "Module": {
+      "Id": 2,
+      "Name": "Physics",
+      "Description": "Introductory Physics Module",
+      "Credits": 4,
+      "Code": "PHYS101",
+      "Semester": "Spring",
+      "Compulsory": false
+    },
+    "SessionDate": "2024-07-21T14:00:00",
+    "SessionTime": 1.5,
+    "SessionType": false,
+    "Progress": 60.0
+  },
+  {
+    "Id": 3,
+    "Module": {
+      "Id": 3,
+      "Name": "Chemistry",
+      "Description": "Basic Chemistry Module",
+      "Credits": 4,
+      "Code": "CHEM101",
+      "Semester": "Summer",
+      "Compulsory": true
+    },
+    "SessionDate": "2024-07-22T09:00:00",
+    "SessionTime": 3.0,
+    "SessionType": true,
+    "Progress": 80.0
+  },
+  {
+    "Id": 4,
+    "Module": {
+      "Id": 4,
+      "Name": "Biology",
+      "Description": "Introductory Biology Module",
+      "Credits": 3,
+      "Code": "BIOL101",
+      "Semester": "Fall",
+      "Compulsory": false
+    },
+    "SessionDate": "2024-07-23T11:00:00",
+    "SessionTime": 2.5,
+    "SessionType": false,
+    "Progress": 50.0
+  }
+]
+

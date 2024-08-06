@@ -1,0 +1,94 @@
+[
+  {
+    "Id": 1,
+    "Code": "EE1204",
+    "Name": "Signal and Systems",
+    "Description": "Introduction to signal and systems in engineering world",
+    "Credits": 3,
+    "Semester": "01",
+    "Compulsory": true
+  },
+  {
+    "Id": 2,
+    "Code": "CS1101",
+    "Name": "Introduction to Computer Science",
+    "Description": "Fundamentals of computer science and programming",
+    "Credits": 4,
+    "Semester": "01",
+    "Compulsory": true
+  },
+  {
+    "Id": 3,
+    "Code": "MA1201",
+    "Name": "Calculus I",
+    "Description": "Differential and integral calculus for engineering students",
+    "Credits": 3,
+    "Semester": "01",
+    "Compulsory": true
+  },
+  {
+    "Id": 4,
+    "Code": "PH1102",
+    "Name": "Physics I",
+    "Description": "Basic principles of classical mechanics",
+    "Credits": 3,
+    "Semester": "01",
+    "Compulsory": true
+  },
+  {
+    "Id": 5,
+    "Code": "EE2205",
+    "Name": "Digital Logic Design",
+    "Description": "Introduction to digital systems and logic circuits",
+    "Credits": 3,
+    "Semester": "02",
+    "Compulsory": true
+  },
+  {
+    "Id": 6,
+    "Code": "CS2202",
+    "Name": "Data Structures",
+    "Description": "Study of data structures and their applications",
+    "Credits": 4,
+    "Semester": "02",
+    "Compulsory": true
+  },
+  {
+    "Id": 7,
+    "Code": "MA2202",
+    "Name": "Linear Algebra",
+    "Description": "Linear algebra and its applications in engineering",
+    "Credits": 3,
+    "Semester": "02",
+    "Compulsory": true
+  },
+  {
+    "Id": 8,
+    "Code": "PH2203",
+    "Name": "Physics II",
+    "Description": "Electromagnetism and its applications",
+    "Credits": 3,
+    "Semester": "02",
+    "Compulsory": true
+  },
+  {
+    "Id": 9,
+    "Code": "EE3206",
+    "Name": "Microprocessors",
+    "Description": "Study of microprocessors and their architecture",
+    "Credits": 3,
+    "Semester": "03",
+    "Compulsory": true
+  },
+  {
+    "Id": 10,
+    "Code": "CS3203",
+    "Name": "Algorithms",
+    "Description": "Design and analysis of algorithms",
+    "Credits": 4,
+    "Semester": "03",
+    "Compulsory": true
+  }
+]
+
+
